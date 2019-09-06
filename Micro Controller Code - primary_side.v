@@ -11,7 +11,7 @@ module primary_side (
  reg primary_clk = 0;
 //Sets the output signal freqeuncy to 1 kHz
  always @(posedge clk)begin // Slows down 50 Mhz to 1 kHz 
-   if(count == 500) begin
+	 if(count == 12000) begin
      count = 0;
      primary_clk = ~primary_clk;
      end
