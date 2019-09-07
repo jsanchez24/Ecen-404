@@ -1,6 +1,9 @@
 Week 1 - Aug. 26
-    Jair Sanchez - Worked on intigrating the control subsystem and the dc-ac inverter. 
+    Jair Sanchez  - Worked on intigrating the control subsystem and the dc-ac inverter. 
     Matt Avanzato - Tested prototype sensor board again for validation and tested the transformer with the primary board.
-    Hector Tale - Verified the dc-ac inverter functionality
+    Hector Tale   - Verified the dc-ac inverter functionality.
 Week 2 - Sep. 2
+    Hector Tale   - Finilized secondary board design implementing PCB software design 
+                  - PCB being audited by manufacturing company before fabrication.
+                  - Initialized current sourced mode testing on DC-AC inverter. 
 Week 3 - Sep. 9
